@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>    
+    <string name="app_name">Px500Test</string>    
+     <string name="connectionError">Check your internet connection please.. </string>		
+     <string name="error">Error</string>
+</resources>
